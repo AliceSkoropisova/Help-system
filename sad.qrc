@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/sadsmile">
+        <file>animals/sad.jpg</file>
+    </qresource>
+</RCC>
